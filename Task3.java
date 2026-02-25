@@ -1,6 +1,7 @@
 import java.util.*;
 public class Task3 {
     public static void main(String[] args) {
+        // 2D Jagged Array
         int [][] marks=new int[3][];
         marks[0]=new int[3];
         marks[1]=new int[2];
